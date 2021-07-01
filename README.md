@@ -1,10 +1,10 @@
-# throwback-thursdays-projects
-Throwback Thursday Projects for my YouTube or other social / educational (?) channels.
+# youtube-content-projects
+Projects for my YouTube or other social / educational (?) channels.
 
 ## developer instructions
 
-- `git clone git@github.com:erikyuzwa/throwback-thursdays-projects.git`
-- `cd throwback-thursdays-projects`
+- `git clone git@github.com:erikyuzwa/youtube-content-projects.git`
+- `cd youtube-content-projects`
 - run something
 
 ## LICENSE
