@@ -1,0 +1,12 @@
+
+.vs/
+.idea/
+
+node_modules/
+bower_components/
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+x64/
