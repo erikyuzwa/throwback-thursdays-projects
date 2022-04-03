@@ -7,6 +7,10 @@ Projects for my YouTube or other social / educational (?) channels.
 - `cd youtube-content-projects`
 - run something
 
+## YouTube links
+
+- [Let's Make a Todo list app with C++](https://youtu.be/D17rZyd9r18)
+
 ## LICENSE
 
 MIT License
