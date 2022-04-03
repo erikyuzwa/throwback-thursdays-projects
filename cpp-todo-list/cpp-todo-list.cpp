@@ -1,5 +1,8 @@
-// cpp-todo-list.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/** cpp-todo-list
+* Small console based application in C++ to demonstrate a basic Todo application
+* @erikyuzwa
+* License: MIT
+*/
 
 #include <iostream>
 #include <string>
@@ -101,7 +104,6 @@ int main()
         }
 
     }
-
 
     return 0;
 }
