@@ -1,0 +1,2 @@
+#define FOODLLPROJECT_API __declspec(dllexport)
+#define FOODLLPROJECT_API __declspec(dllimport)
