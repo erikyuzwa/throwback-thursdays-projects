@@ -1,0 +1,2 @@
+#define MOONGATE_API __declspec(dllexport)
+#define MOONGATE_API __declspec(dllimport)
